@@ -24,7 +24,7 @@
 - [ماهي الأداة](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A9)
 - [كيف تعمل](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA)
 - [المتطلبات](#-المتطلبات)
-- [التثبيت](#-التثبيت)
+- [التثبيت](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D8%A7%D9%84%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA)
 - [طريقة الإستخدام](#-طريقة_الإستخدام)
 - [التشغيل](#-تشغيل_مباشر)
 
@@ -60,18 +60,27 @@
 
 ### 🤖 Termux (Android)
 
+
+**1. تحديث الحزم**
+
 ```bash
-# 1. تحديث الحزم
 pkg update && pkg upgrade -y
+```
 
-# 2. تثبيت Python
+**2. تثبيت Python**
+```bash
 pkg install python -y
+```
 
-# 3. تثبيت المكتبات المطلوبة
+**3. تثبيت المكتبات المطلوبة**
+```bash
 pip install arabic-reshaper python-bidi
+```
 
-# 4. تحميل الأداة
+**4. تحميل الأداة**
+```bash
 cd /sdcard/Download
+```
 # ضع ملف obfuscator.py هنا
 
 # 5. تثبيتها كأمر عالمي (تشغيل من أي مكان)
