@@ -1,3 +1,4 @@
+<html lang="ar" dir="rtl" data-lang="ar" data-dir="rtl">
 <div align="center">
 
 **🔐 Python Obfuscator**
