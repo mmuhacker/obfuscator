@@ -204,7 +204,7 @@ ob
 | مثال | myapp_protected.py |
 
 ---
-<div align="center">
+
 
 ## 📁 هيكل الملفات
 </div>
