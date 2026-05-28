@@ -229,8 +229,8 @@ README.md              ← هذا الملف
 
 
 
-- بوت التداول الذكي
-- البيئة: Termux (Android)
+- أداة تشفير أكواد Python بثلاث طبقات
+- البيئة: Termux (Android) و Kali Linux
 - الإصدار: v1.0
 
 ---
