@@ -23,7 +23,7 @@
 
 - [ماهي الأداة](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A9)
 - [كيف تعمل](https://github.com/mmuhacker/obfuscator/blob/main/README.md#%EF%B8%8F-%D9%83%D9%8A%D9%81-%D8%AA%D8%B9%D9%85%D9%84)
-- [المتطلبات](المتطلبات)
+- [المتطلبات](#-المتطلبات)
 - [التثبيت](#-التثبيت)
 - [طريقة الإستخدام](#-طريقة_الإستخدام)
 - [التشغيل](#-تشغيل_مباشر)
