@@ -187,9 +187,28 @@ README.md              ← هذا الملف
 
 ## 👨‍💻 المطوّر
 
-**꧁ঔৣ☬ Muhannad Daher ☬ঔৣ꧂**
+**Muhannad Daher**
+
+[![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
+
+[![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
+
+---
+</div>
+
+
+
+- بوت التداول الذكي
+- البيئة: Termux (Android)
+- الإصدار: v1.0
 
 ---
 
-> *"حافظ على كودك، حافظ على عملك."*
+<div align="center">
+
+
+
+*"حافظ على كودك، حافظ على عملك."*
+
+**⭐ إذا أعجبتك الأداة، لا تنسَ النجمة! ⭐**
 </div>
