@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# _mBdLnaByUIBH_jYQfEyrkIfTo
-# _gdmkgQnofROC_hLyKiwKdjYII
+# _zfOMJOROBYZy_HOBfbpvSLMBG
+# _SlTwNiUfWLGe_SluVxKXtPgNg
 
-import base64 as _OehCiHqAcMeG
-import zlib as _BlqkdkRKrkoV
-import sys as _ysFHhqLMLtTq
+import base64 as _STYxqZDQzlQR
+import zlib as _cXFGFrhcFzmh
+import sys as _ZoegHsaUPRcU
 
-_dtkFseakeBCc = [
+_oTrfxWkgeZxS = [
     'c-qZb-EZ606@TYnapOEtYHa!|NnHURkksB#AZvmo!%#Q@K}lB@SBVrz%8n`ssNMKu-mu!6y$;2KEHhSr',
     'G)`dHX`1{c)LY@lzAS&j&bjxJyrfA<UI%oB42y^No_oH}?_6KLG}?5X(V}UMQfq-UT3*$*CY8%%`X~Ir',
     'c0%qjR^)cE(sWCPXFFts_`Ci~f6qT4{-J-`UGHxAr=<Hucin$U{C$59p1%d^D%*dvRUkj^E&cG#_78iz',
@@ -49,8 +49,8 @@ _dtkFseakeBCc = [
     'G?Q5%UO=qDJePzl3V29o1y0xTe~Ux9j{Q>Chq%Ld^Hlx=eTjBh',
 ]
 
-_YOZItKFgrSaK = ''.join(_dtkFseakeBCc)
-_feDDlKMDQggx = _OehCiHqAcMeG.b85decode(_YOZItKFgrSaK.encode())
-_AXfMrMXDtfqe = _BlqkdkRKrkoV.decompress(_feDDlKMDQggx).decode('utf-8')
+_KNxLfBKutvHZ = ''.join(_oTrfxWkgeZxS)
+_ahyxqTwJVhaL = _STYxqZDQzlQR.b85decode(_KNxLfBKutvHZ.encode())
+_rQpWyyYWUagj = _cXFGFrhcFzmh.decompress(_ahyxqTwJVhaL).decode('utf-8')
 
-exec(compile(_AXfMrMXDtfqe, 'mud_ob.py', 'exec'))
+exec(compile(_rQpWyyYWUagj, 'ob.py', 'exec'))
