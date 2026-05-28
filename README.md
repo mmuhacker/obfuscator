@@ -23,6 +23,8 @@
 
 ![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
 
+![Platform](https://img.shields.io/badge/Platform-Kali_Linux-green?style=for-the-badge&logo=kalilinux)
+
 
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
 
