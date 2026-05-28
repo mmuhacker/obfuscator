@@ -22,7 +22,7 @@
 </div>
 
 - [ماهي الأداة](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A9)
-- [كيف تعمل](#-كيف_تعمل_؟)
+- [كيف تعمل](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA)
 - [المتطلبات](#-المتطلبات)
 - [التثبيت](#-التثبيت)
 - [طريقة الإستخدام](#-طريقة_الإستخدام)
