@@ -18,10 +18,25 @@
 
 ---
 
+![Version](https://img.shields.io/badge/Version-1.0-blue?style=for-the-badge)
+
+
+![Platform](https://img.shields.io/badge/Platform-Android-green?style=for-the-badge&logo=android)
+
+
+![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
+
+
+![License](https://img.shields.io/badge/License-Commercial-red?style=for-the-badge)
+
+
+![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
+---
+
 **📚 المحتويات**
 </div>
 
-<div align="right">
 
 - [📌 ما هي الأداة؟](#-ما-هي-الأداة)
 - [⚙️ كيف تعمل؟](#️-كيف-تعمل)
@@ -33,7 +48,7 @@
 - [📁 هيكل الملفات](#-هيكل-الملفات)
 - [💡 ملاحظات مهمة](#-ملاحظات-مهمة)
 - [👨‍💻 المطوّر](#-المطوّر)
-</div>
+
 ---
 
 ## 📌 ما هي الأداة؟
