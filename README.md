@@ -74,15 +74,17 @@
 ## 📋 المتطلبات
 </div>
 
-- Python 3.6 أو أحدث
+- حزمة Python 3.x
 - مكتبة `arabic-reshaper` (لعرض النصوص العربية)
 - مكتبة `python-bidi` (لعرض النصوص العربية)
 
 ---
+<div align="center">
 
 ## 🚀 التثبيت
 
 ### 🤖 Termux (Android)
+</div>
 
 
 **1. تحديث الحزم**
