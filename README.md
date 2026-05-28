@@ -1,6 +1,6 @@
 <div align="center">
-**🔐 Python Obfuscator**
 
+**🔐 Python Obfuscator**
 
 **أداة تشويش وحماية كود بايثون**
 
@@ -14,19 +14,24 @@
    ╚═════╝ ╚═════╝ ╚═╝      ╚═════╝ ╚══════╝ ╚═════╝╚═╝  ╚═╝   ╚═╝    ╚═════╝ ╚═╝  ╚═╝
 ```
 
-**By: ꧁ঔৣ☬ Muhannad Daher ☬ঔৣ꧂**
+> **By:** ꧁ঔৣ☬ Muhannad Daher ☬ঔৣ꧂
 
 ---
-**المحتويات**
 
-</div>
+## 📚 المحتويات
 
-- [ماهي الأداة](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D9%85%D8%A7-%D9%87%D9%8A-%D8%A7%D9%84%D8%A3%D8%AF%D8%A7%D8%A9)
-- [كيف تعمل](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D8%A7%D9%84%D9%85%D8%AA%D8%B7%D9%84%D8%A8%D8%A7%D8%AA)
-- [المتطلبات](#-المتطلبات)
-- [التثبيت](https://github.com/mmuhacker/obfuscator/blob/main/README.md#-%D8%A7%D9%84%D8%AA%D8%AB%D8%A8%D9%8A%D8%AA)
-- [طريقة الإستخدام](#-طريقة_الإستخدام)
-- [التشغيل](#-تشغيل_مباشر)
+- [📌 ما هي الأداة؟](#-ما-هي-الأداة)
+- [⚙️ كيف تعمل؟](#️-كيف-تعمل)
+- [📋 المتطلبات](#-المتطلبات)
+- [🚀 التثبيت](#-التثبيت)
+  - [🤖 Termux (Android)](#-termux-android)
+  - [🐉 Kali Linux](#-kali-linux)
+- [▶️ طريقة الاستخدام](#️-طريقة-الاستخدام)
+- [📁 هيكل الملفات](#-هيكل-الملفات)
+- [💡 ملاحظات مهمة](#-ملاحظات-مهمة)
+- [👨‍💻 المطوّر](#-المطوّر)
+
+---
 
 ## 📌 ما هي الأداة؟
 
@@ -60,36 +65,24 @@
 
 ### 🤖 Termux (Android)
 
-
-**1. تحديث الحزم**
-
 ```bash
+# 1. تحديث الحزم
 pkg update && pkg upgrade -y
-```
 
-**2. تثبيت Python**
-```bash
+# 2. تثبيت Python
 pkg install python -y
-```
 
-**3. تثبيت المكتبات المطلوبة**
-```bash
+# 3. تثبيت المكتبات المطلوبة
 pip install arabic-reshaper python-bidi
-```
 
-**4. تحميل الأداة**
-```bash
-cd /sdcard/Download
-```
-# ضع ملف obfuscator.py هنا
+# 4. تحميل الأداة مباشرة من GitHub
+curl -o $PREFIX/bin/ob https://raw.githubusercontent.com/mmuhacker/obfuscator/main/mud_ob.py
 
-# 5. تثبيتها كأمر عالمي (تشغيل من أي مكان)
-cp /sdcard/Download/obfuscator.py $PREFIX/bin/obfuscator
-chmod +x $PREFIX/bin/obfuscator
+# 5. منح صلاحية التنفيذ
+chmod +x $PREFIX/bin/ob
 
-# 6. إضافة shebang إذا لم يكن موجوداً (يتم تلقائياً من الملف)
-# الآن يمكنك تشغيلها من أي مكان:
-obfuscator
+# 6. الآن يمكنك تشغيلها من أي مكان:
+ob
 ```
 
 ---
@@ -109,51 +102,47 @@ sudo apt install python3-pip -y
 # 4. تثبيت المكتبات المطلوبة
 pip3 install arabic-reshaper python-bidi
 
-# 5. تثبيتها كأمر عالمي (تشغيل من أي مكان)
-sudo cp obfuscator.py /usr/local/bin/obfuscator
-sudo chmod +x /usr/local/bin/obfuscator
+# 5. تحميل الأداة مباشرة من GitHub
+sudo curl -o /usr/local/bin/ob https://raw.githubusercontent.com/mmuhacker/obfuscator/main/mud_ob.py
 
-# 6. الآن يمكنك تشغيلها من أي مكان:
-obfuscator
+# 6. منح صلاحية التنفيذ
+sudo chmod +x /usr/local/bin/ob
+
+# 7. الآن يمكنك تشغيلها من أي مكان:
+ob
 ```
 
 ---
 
 ## ▶️ طريقة الاستخدام
 
-### تشغيل مباشر:
+### تشغيل مباشر (بدون تثبيت):
 ```bash
 # Termux
-python obfuscator.py
+python mud_ob.py
 
 # Kali Linux
-python3 obfuscator.py
+python3 mud_ob.py
 ```
----
 
 ### تشغيل كأمر عالمي (بعد التثبيت):
 ```bash
-obfuscator
+ob
 ```
-### إنشاء إختصار التشغيل
-```bash
-echo "alias ob='python ~/mud_ob.py'" >> ~/.bashrc && source ~/.bashrc
-```
-
-**أكتب ob فقط للتشغيل بعد إعداد الإختصار**
----
 
 ### خطوات الاستخدام:
 ```
-1. أدخل مسار الملف المراد حمايته
+1. اختر [1] لتشويش ملف
+
+2. أدخل مسار الملف المراد حمايته
    مثال: /sdcard/Download/myapp.py
 
-2. أدخل مسار حفظ الملف المحمي
+3. أدخل مسار حفظ الملف المحمي
    (أو اضغط Enter للحفظ تلقائياً بجانب الملف الأصلي)
 
-3. أكّد بـ y للبدء
+4. أكّد بـ y للبدء
 
-4. ستجد الملف المحمي جاهزاً باسم: myapp_protected.py
+5. ستجد الملف المحمي جاهزاً باسم: myapp_protected.py
 ```
 
 ---
@@ -161,7 +150,7 @@ echo "alias ob='python ~/mud_ob.py'" >> ~/.bashrc && source ~/.bashrc
 ## 📁 هيكل الملفات
 
 ```
-obfuscator.py          ← الأداة الرئيسية
+mud_ob.py              ← الأداة الرئيسية
 README.md              ← هذا الملف
 ```
 
@@ -183,3 +172,4 @@ README.md              ← هذا الملف
 ---
 
 > *"حافظ على كودك، حافظ على عملك."*
+</div>
