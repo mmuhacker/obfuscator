@@ -52,6 +52,7 @@
 - [👨‍💻 المطوّر](https://github.com/mmuhacker/obfuscator/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D9%91%D8%B1)
 
 ---
+<div align="center">
 
 ## 📌 ما هي الأداة؟
 
@@ -74,6 +75,7 @@
 ---
 
 ## 📋 المتطلبات
+</div>
 
 - Python 3.6 أو أحدث
 - مكتبة `arabic-reshaper` (لعرض النصوص العربية)
@@ -85,23 +87,34 @@
 
 ### 🤖 Termux (Android)
 
+
+**1. تحديث الحزم**
+
 ```bash
-# 1. تحديث الحزم
 pkg update && pkg upgrade -y
+```
 
-# 2. تثبيت Python
+**2. تثبيت Python**
+```bash
 pkg install python -y
-
-# 3. تثبيت المكتبات المطلوبة
+```
+**3. تثبيت المكتبات المطلوبة**
+```bash
 pip install arabic-reshaper python-bidi
+```
 
-# 4. تحميل الأداة مباشرة من GitHub
+**4. تحميل الأداة مباشرة**
+```bash
 curl -o $PREFIX/bin/ob https://raw.githubusercontent.com/mmuhacker/obfuscator/main/mud_ob.py
+```
 
-# 5. منح صلاحية التنفيذ
+**5. منح صلاحية التنفيذ**
+```bash
 chmod +x $PREFIX/bin/ob
+```
 
-# 6. الآن يمكنك تشغيلها من أي مكان:
+**6. الآن يمكنك تشغيلها من أي مكان:**
+```
 ob
 ```
 
@@ -109,26 +122,39 @@ ob
 
 ### 🐉 Kali Linux
 
+
+**1. تحديث النظام**
 ```bash
-# 1. تحديث النظام
 sudo apt update && sudo apt upgrade -y
+```
 
-# 2. التحقق من Python (مثبت افتراضياً)
+**2. التحقق من Python (مثبت افتراضياً)**
+```bash
 python3 --version
+```
 
-# 3. تثبيت pip إذا لم يكن موجوداً
+**3. تثبيت pip إذا لم يكن موجوداً**
+```bash
 sudo apt install python3-pip -y
+```
 
-# 4. تثبيت المكتبات المطلوبة
+**4. تثبيت المكتبات المطلوبة**
+```bash
 pip3 install arabic-reshaper python-bidi
+```
 
-# 5. تحميل الأداة مباشرة من GitHub
+**5. تحميل الأداة مباشرة**
+```bash
 sudo curl -o /usr/local/bin/ob https://raw.githubusercontent.com/mmuhacker/obfuscator/main/mud_ob.py
+```
 
-# 6. منح صلاحية التنفيذ
+**6. منح صلاحية التنفيذ**
+```bash
 sudo chmod +x /usr/local/bin/ob
+```
 
-# 7. الآن يمكنك تشغيلها من أي مكان:
+**7. الآن يمكنك تشغيلها من أي مكان:**
+```
 ob
 ```
 
@@ -166,8 +192,10 @@ ob
 ```
 
 ---
+<div align="center">
 
 ## 📁 هيكل الملفات
+</div>
 
 ```
 mud_ob.py              ← الأداة الرئيسية
@@ -175,13 +203,15 @@ README.md              ← هذا الملف
 ```
 
 ---
-
+<div align="center">
+  
 ## 💡 ملاحظات مهمة
 
 - ✅ الملف المحمي يعمل بنفس طريقة الأصلي تماماً
 - ✅ يدعم كل ملفات Python 3
 - ⚠️ احتفظ دائماً بنسخة من الملف الأصلي
 - ⚠️ التشويش لا يعني التشفير الكامل — هو حماية من القراءة السريعة
+</div>
 
 ---
 <div align="center">
