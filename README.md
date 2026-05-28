@@ -1,4 +1,3 @@
-<html lang="ar" dir="rtl" data-lang="ar" data-dir="rtl">
 <div align="center">
 
 **🔐 Python Obfuscator**
@@ -28,8 +27,8 @@
 - [⚙️ كيف تعمل؟](#️-كيف-تعمل)
 - [📋 المتطلبات](#-المتطلبات)
 - [🚀 التثبيت](#-التثبيت)
-  - [🤖 Termux (Android)](#-termux-android)
-  - [🐉 Kali Linux](#-kali-linux)
+  - [تطبيق 🤖 Termux (Android)](#-termux-android)
+  - [نظام 🐉 Kali Linux](#-kali-linux)
 - [▶️ طريقة الاستخدام](#️-طريقة-الاستخدام)
 - [📁 هيكل الملفات](#-هيكل-الملفات)
 - [💡 ملاحظات مهمة](#-ملاحظات-مهمة)
