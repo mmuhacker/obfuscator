@@ -24,6 +24,7 @@
 ![Python](https://img.shields.io/badge/Python-3.x-yellow?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT_License-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
+
 ---
 
 **📚 المحتويات**
