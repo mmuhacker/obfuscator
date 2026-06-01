@@ -41,6 +41,7 @@
 - [📁 هيكل الملفات](#-هيكل-الملفات)
 - [💡 ملاحظات مهمة](#-ملاحظات-مهمة)
 - [👨‍💻 المطوّر](https://github.com/mmuhacker/obfuscator/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D9%91%D8%B1)
+- [الرخصة](#-الرخصة)
 
 ---
 <div align="center">
@@ -227,16 +228,29 @@ README.md              ← هذا الملف
 
 [![GitHub](https://img.shields.io/badge/GitHub-mmuhacker-black?style=for-the-badge&logo=github)](https://github.com/mmuhacker)
 
-[![Contact Us](https://img.shields.io/badge/Contact_Us-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:madarik.ai.info@gmail.com)
+---
+
+
+## 📄 الرخصة
+**MIT License — حر الاستخدام مع ذكر المصدر**
 
 ---
 </div>
 
-
-
 - أداة تشفير أكواد Python بثلاث طبقات
 - البيئة: Termux (Android) و Kali Linux
 - الإصدار: v1.0
+
+
+
+---
+<div align="center">
+
+***Madarik Tools — صُنع بالعربية***
+
+⭐ **إذا أعجبتك الأداة، لا تنسَ النجمة!** ⭐
+</div>
+v1.0
 
 ---
 
