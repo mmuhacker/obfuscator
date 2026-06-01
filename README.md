@@ -1,8 +1,6 @@
 <div align="center">
 
-**🔐 Python Obfuscator**
-
-**أداة تشويش وحماية كود بايثون**
+  # 🔐 Python Obfuscatorأداة تشويش وحماية كود بايثون
 
 
 ```
