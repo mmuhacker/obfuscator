@@ -3,7 +3,7 @@
   # 🔐 Python Obfuscator
 # أداة تشويش وحماية كود بايثون
 
-**By:**Muhannad Daher**
+By:**Muhannad Daher**
 
 ---
 
