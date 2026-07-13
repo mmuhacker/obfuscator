@@ -81,7 +81,7 @@
   
 <div align="center">
 
-## 🚀 التثبيت
+**🚀 التثبيت**
 
 ### 🤖 Termux (Android)
 </div>
