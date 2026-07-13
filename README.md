@@ -67,6 +67,17 @@
 
 <div align="center" id="لقطات">
 ## 📸 لقطات الأداة 
+
+</div>
+
+<p align="center">
+  <img src="img/ob0.png" width="600" alt="بانر الأداة"><br>
+  <em>الشكل 1: واجهة البانر الرئيسية</em>
+</p><br>
+<p align="center">
+  <img src="img/ob1.png" width="600" alt="لقطة شاملة"><br>
+  <em>الشكل 2: لقطة شاملة للأداة</em>
+</p><br>
   
 <div align="center">
 
