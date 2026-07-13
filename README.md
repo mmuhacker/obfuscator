@@ -1,7 +1,6 @@
 <div align="center">
 
-  # 🔐 Python Obfuscator
-# أداة تشويش وحماية كود بايثون
+  # 🔐 Python Obfuscator<br>أداة تشويش وحماية كود بايثون
 
 By: **Muhannad Daher**
 
