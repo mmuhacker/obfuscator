@@ -192,6 +192,7 @@ sudo curl -o /usr/local/bin/ob https://raw.githubusercontent.com/mmuhacker/obfus
 ```bash
 python mud_ob.py
 ```
+
 <div align="center">
   
 **Kali Linux**
