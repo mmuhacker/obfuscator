@@ -187,6 +187,7 @@ sudo curl -o /usr/local/bin/ob https://raw.githubusercontent.com/mmuhacker/obfus
 **تشغيل مباشر (بدون تثبيت):**
 
 **Termux**
+
 </div>
 
 ```bash
@@ -195,6 +196,7 @@ python mud_ob.py
 <div align="center">
   
 **Kali Linux**
+
 </div>
 
 ```bash
@@ -207,6 +209,7 @@ python3 mud_ob.py
 ```bash
 ob
 ```
+
 ---
 
 
