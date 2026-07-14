@@ -272,7 +272,7 @@ README.md     ← هذا الملف
 ---
 
 
-#<div align="center" id="رخصة">
+<div align="center" id="رخصة">
 
 ## 📜 الرخصة
 
