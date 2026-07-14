@@ -32,7 +32,7 @@ By: **Muhannad Daher**
 - [لقطات الأداة](#لقطات)
 - **🚀 التثبيت**
   - [تطبيق 🤖 Termux (Android)](#-termux-android)
-  - [نظام 🐉 Kali Linux](#-kali-linux)
+  - [توزيعات 🐧 Linux](#لينكس)
 - [تحديث الأداة](#تحديث)
 - [▶️ طريقة الاستخدام](#طريقة)
 - [📁 هيكل الملفات](#-هيكل-الملفات)
@@ -91,7 +91,7 @@ By: **Muhannad Daher**
 
 **🚀 التثبيت**
 
-### 🤖 Termux (Android)
+## 🤖 Termux (Android)
 </div>
 
 
@@ -127,7 +127,9 @@ ob
 
 ---
 
-### 🐉 Kali Linux
+<div align="center" id="لينكس">
+
+## 🐉 Kali Linux
 
 
 **1. تحديث النظام**
