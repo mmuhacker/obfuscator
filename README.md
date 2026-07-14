@@ -26,7 +26,8 @@ By: **Muhannad Daher**
 - **🚀 التثبيت**
   - [تطبيق 🤖 Termux (Android)](#-termux-android)
   - [نظام 🐉 Kali Linux](#-kali-linux)
-- [▶️ طريقة الاستخدام](#️-طريقة-الاستخدام)
+- [تحديث الأداة](#تحديث)
+- [▶️ طريقة الاستخدام](#طريقة)
 - [📁 هيكل الملفات](#-هيكل-الملفات)
 - [💡 ملاحظات مهمة](#-ملاحظات-مهمة)
 - [👨‍💻 المطوّر](https://github.com/mmuhacker/obfuscator/blob/main/README.md#%E2%80%8D-%D8%A7%D9%84%D9%85%D8%B7%D9%88%D9%91%D8%B1)
@@ -157,7 +158,28 @@ ob
 ```
 
 ---
-<div align="center">
+
+<div align="center" id="تحديث">
+  
+## 🔄 تحديث الأداة
+
+</div>
+
+- **Termux**
+
+```bash
+curl -o $PREFIX/bin/ob https://raw.githubusercontent.com/mmuhacker/obfuscator/main/mud_ob.py
+```
+
+- **Linux**
+
+```bash
+sudo curl -o /usr/local/bin/ob https://raw.githubusercontent.com/mmuhacker/obfuscator/main/mud_ob.py
+```
+
+---
+
+<div align="center" id="طريقة">
 
 ## ▶️ طريقة الاستخدام
 
