@@ -163,7 +163,7 @@ ob
   
 ## 🔄 تحديث الأداة
 
-</div>
+
 
 - **Termux**
 
@@ -176,6 +176,7 @@ curl -o $PREFIX/bin/ob https://raw.githubusercontent.com/mmuhacker/obfuscator/ma
 ```bash
 sudo curl -o /usr/local/bin/ob https://raw.githubusercontent.com/mmuhacker/obfuscator/main/mud_ob.py
 ```
+</div>
 
 ---
 
