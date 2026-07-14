@@ -226,7 +226,7 @@ python mud_ob.py
 python3 mud_ob.py
 ```
 
-<div align="center">
+---
   
 **تشغيل كأمر عالمي (بعد التثبيت):**
 ```bash
