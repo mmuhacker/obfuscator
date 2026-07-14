@@ -129,7 +129,7 @@ ob
 
 <div align="center" id="لينكس">
 
-## 🐧 Kali Linux
+## 🐧 Linux os
 
 
 **1. تحديث النظام**
