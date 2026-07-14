@@ -73,6 +73,7 @@ By: **Muhannad Daher**
 ---
 
 <div align="center" id="لقطات">
+  
 ## 📸 لقطات الأداة 
 
 </div>
